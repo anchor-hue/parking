@@ -161,4 +161,4 @@ print(f'step: {step}, episode return: {episode_return}')
 
 ![img](https://ai-studio-static-online.cdn.bcebos.com/ffecea77e248449aa4b376e50fc7710784e540b5f41c44eaab9c47ecb72e7bdc)
 
-![img](https://ai-studio-static-online.cdn.bcebos.com/76d5bb7caad14601ae0dd28dfaf973b24555c04fd90047fb8a71bb9a8bc1ee0d)
+![img](https://ai-studio-static-online.cdn.bcebos.com/178d790c423c4af29f6a80542f7f6c665c9665c84c514e06a7bf13f23ba1dcd2)
